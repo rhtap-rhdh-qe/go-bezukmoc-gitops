@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-bezukmoc:1f8183e23f8b1320e4435afd8cb4489d15b7d324@sha256:3d3b3ee58488c278044f6b6782686d7294730227f61a0be398baada023d4bd33
+        - image: quay.io/rhtap_qe/go-bezukmoc:f178ed4414e244fab555e1fdf9c82ebfa008ae78@sha256:1119b50572e2bf32020a2d700c89816beaccd2d2d414eab1913b5662fe177640
           name: container-image
